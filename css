@@ -1,0 +1,13 @@
+MinecraftUtilityClient/
+├── External/
+│   └── imgui/                ← ImGui source files
+├── src/
+│   ├── main.cpp
+│   ├── FullBright.cpp
+│   ├── FullBright.h
+│   ├── CPSCounter.cpp
+│   ├── CPSCounter.h
+│   ├── UI.cpp
+│   ├── UI.h
+├── MinecraftUtilityClient.sln
+├── README.md
